@@ -1,0 +1,14 @@
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\bin\Debug\netcoreapp2.0\XMLtoCTTConverter.deps.json
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\bin\Debug\netcoreapp2.0\XMLtoCTTConverter.runtimeconfig.json
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\bin\Debug\netcoreapp2.0\XMLtoCTTConverter.runtimeconfig.dev.json
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\bin\Debug\netcoreapp2.0\XMLtoCTTConverter.dll
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\bin\Debug\netcoreapp2.0\XMLtoCTTConverter.pdb
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\obj\Debug\netcoreapp2.0\XMLtoCTTConverter.csprojAssemblyReference.cache
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\obj\Debug\netcoreapp2.0\XMLtoCTTConverter.csproj.CoreCompileInputs.cache
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\obj\Debug\netcoreapp2.0\XMLtoCTTConverter.AssemblyInfoInputs.cache
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\obj\Debug\netcoreapp2.0\XMLtoCTTConverter.AssemblyInfo.cs
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\obj\Debug\netcoreapp2.0\XMLtoCTTConverter.dll
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\obj\Debug\netcoreapp2.0\XMLtoCTTConverter.pdb
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\bin\Debug\netcoreapp2.0\XMLtoECTTLib.dll
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\bin\Debug\netcoreapp2.0\XMLtoECTTLib.pdb
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoCTTConverter\obj\Debug\netcoreapp2.0\XMLtoCTTConverter.csproj.CopyComplete

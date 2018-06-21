@@ -1,0 +1,9 @@
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoECTTLib\bin\Debug\netcoreapp2.0\XMLtoECTTLib.deps.json
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoECTTLib\bin\Debug\netcoreapp2.0\XMLtoECTTLib.dll
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoECTTLib\bin\Debug\netcoreapp2.0\XMLtoECTTLib.pdb
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoECTTLib\obj\Debug\netcoreapp2.0\XMLtoECTTLib.csprojAssemblyReference.cache
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoECTTLib\obj\Debug\netcoreapp2.0\XMLtoECTTLib.csproj.CoreCompileInputs.cache
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoECTTLib\obj\Debug\netcoreapp2.0\XMLtoECTTLib.AssemblyInfoInputs.cache
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoECTTLib\obj\Debug\netcoreapp2.0\XMLtoECTTLib.AssemblyInfo.cs
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoECTTLib\obj\Debug\netcoreapp2.0\XMLtoECTTLib.dll
+C:\Users\QHyseni\source\repos\XMLtoCTTConverter\XMLtoECTTLib\obj\Debug\netcoreapp2.0\XMLtoECTTLib.pdb
