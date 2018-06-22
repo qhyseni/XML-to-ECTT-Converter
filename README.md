@@ -1,7 +1,7 @@
 # XML-to-ECTT-Converter
 Converts CB-CTT instances from .xml to .ectt format
 
-Developed in .Net Cote (Class Library)
+Developed in .Net Core (Class Library)
 
 Mini program the helps converting instances from XML to ECTT format.
 
